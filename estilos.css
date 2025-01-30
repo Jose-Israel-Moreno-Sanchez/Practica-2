@@ -1,0 +1,43 @@
+
+/*.col{
+    background-color: aquamarine;
+    border:  6px grovee blue;
+    color: red;
+}
+
+.col-8 {
+   border: 2px dotted red; 
+}
+
+.col-4{
+    border: 6px outset rgb(0, 255, 187);
+}*/
+
+#border {
+    background-color: blueviolet;
+    border: 2px solid black;
+    
+}
+#border2 {
+    background-color: red;
+    border: 2px solid black;
+    
+}
+#border3 {
+    background-color: yellow;
+    border: 2px solid black;
+    
+}
+.col{
+    background-color: black;
+    border: 6px outset rgb(0, 255, 76);
+    color: red;
+}
+
+.col-4 {
+    border: 6px outset rgb(0, 255, 76);
+}
+
+.col-4{
+    border: 6px outset rgb(0, 255, 76);
+}
